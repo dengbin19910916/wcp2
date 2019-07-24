@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: wcp-provider
+  data:
+    mongodb:
+      uri: mongodb://localhost/test
+      username:
+      password:
